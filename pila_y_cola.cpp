@@ -1,7 +1,7 @@
 /*
 *   Programa: Pilas y Colas
 *   Fecha: 18/10/2017
-*   Autor:
+*   Autor: Alejandro Santibañez Sanchez
 */
 
 #include <stdio.h>
